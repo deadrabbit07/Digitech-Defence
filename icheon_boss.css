@@ -66,7 +66,7 @@ body {
 
 .enemy_motion {
   /* transform: rotate(315deg) !important; */
-  content: url(./icheon_attack.gif);
+  content: url(./icheon_boss_attack.gif);
 }
 
 .friend_motion {

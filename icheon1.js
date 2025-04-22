@@ -161,7 +161,7 @@ function nextStage() {
   win.style.visibility = "visible";
 
   setTimeout(() => {
-    window.location.href = "mungyeong2.html";
+    window.location.href = "icheon_boss.html";
   }, 1500);
 }
 function loseWindow() {
